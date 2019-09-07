@@ -5,6 +5,7 @@ To start a client
 `from pyblock import Client
 bClient = Client(nodes, 'private key', 'public key')
 bClient.send("Temperature = Cold!!!")`
+
 To Start a node
 
 `import pyblock
